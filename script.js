@@ -11,8 +11,7 @@ function input () {
     alert('Have Fun at School!')
   } else if (age > 18 && (day !== 'saturday' && day !== 'sunday')) {
     alert('Have Fun at Work!')
-  }
-  else {
+  } else {
     alert('Nice Weekend!')
   }
 }
