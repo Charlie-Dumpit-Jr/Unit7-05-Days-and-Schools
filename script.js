@@ -10,7 +10,8 @@ function input () {
   if (age <= 18 && (day !== 'saturday' && day !== 'sunday')) {
     alert('Have Fun at School!')
   } else if (age > 18 && (day !== 'saturday' && day !== 'sunday')) {
-    alert('Have Fun at Work!') }
+    alert('Have Fun at Work!')
+  }
   else {
     alert('Nice Weekend!')
   }
